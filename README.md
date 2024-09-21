@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 
 
-<!-- **taibai1024/taibai1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **aurum1024/aurum1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

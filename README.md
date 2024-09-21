@@ -19,38 +19,23 @@ Here are some ideas to get you started:
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning java Application Development
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
+- 🔭 &nbsp;  I’m currently focused on Java Development
+- 🤔 &nbsp; Exploring front-end technologies, mobile app development, and deep learning
+- 🎓 &nbsp; Majored in Computer Science and passionate about artificial intelligence and software development
 - 💼 &nbsp; Android developer and front-end web developer.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
-- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+- 🌱 &nbsp; Skilled in Android development, front-end with Vue.js, and multi-platform development using Uniapp
+- ✍️ &nbsp;  Enthusiast in deep learning, exploring neural networks and their applications
+- ☕ &nbsp; I believe that a perfect cup of coffee can spark creativity and relieve stress
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Dart | Java | C++  
 - 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL | Firebase | Xampp
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
+- 🛢 &nbsp; MySQL | Firebase | Redis
+- 🔧 &nbsp; Android Studio | PyCharm | VS Code | Git | Eclipse
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
 
-<br>
+<br> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Auart&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Auart's Github Stats"> </br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=taibai&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="taibai's Github Stats">
-
-</br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSouvik&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/taibai1024)
-
-
-<h3> 🤝🏻 Connect with Me </h3>
-
-<p align="center">
-&nbsp; <a href="https://twitter.com/taibai1024" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-&nbsp; <a href="https://www.instagram.com/taibai1024/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:taibai2048@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-</p>
-
-⭐️ From [taibai ](https://github.com/taibai1024)
+<h3> 🤝🏻 Connect with Me </h3> <p align="center"> &nbsp; <a href="https://twitter.com/Auart" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a> &nbsp; <a href="https://www.instagram.com/Auart/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a> &nbsp; <a href="https://www.linkedin.com/in/auart" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a> &nbsp; <a href="mailto:auart2048@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="50" /></a> </p>
+⭐️ From Auart
